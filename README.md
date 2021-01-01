@@ -1,16 +1,17 @@
-# flutterautotest
+# flutterの自動テスト
 
 Flutter test by code Lab
 
-## Getting Started
+## unitテスト
 
-This project is a starting point for a Flutter application.
+https://codelabs.developers.google.com/codelabs/flutter-app-testing#4
 
-A few resources to get you started if this is your first Flutter project:
+## Widgetテスト
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://codelabs.developers.google.com/codelabs/flutter-app-testing#5
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## integrationテスト
+
+https://codelabs.developers.google.com/codelabs/flutter-app-testing#6
+
+
